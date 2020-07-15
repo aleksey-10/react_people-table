@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,6CACF,CAEA,aACE,wBACF","file":"main.f972f5a7.chunk.css","sourcesContent":[".highlighted {\n  background-color: rgba(255, 230, 0, 0.3) !important;\n}\n\n.active-link {\n  background-color: #d8d8d8;\n}\n"]}
